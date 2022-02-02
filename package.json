@@ -1,0 +1,27 @@
+{
+  "name": "cypress_training",
+  "version": "1.0.0",
+  "description": "Automation Cypress Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palaxi0/cypress_training.git"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "cypress"
+  ],
+  "author": "Felipe Palacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palaxi0/cypress_training/issues"
+  },
+  "homepage": "https://github.com/palaxi0/cypress_training#readme",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
